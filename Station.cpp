@@ -7,7 +7,7 @@ Version 1.0
 Author Yarince Vigil
 contact@yarince.com
 -----------------------------------------------------------
-Date: 11/17/2020
+Date: 2020/11/17
 Preliminary release: 11/17/2020
 Revised History:
 -First release
